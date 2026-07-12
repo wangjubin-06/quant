@@ -23,11 +23,12 @@ A series of Python notebooks exploring core ideas in portfolio management and qu
 - [ ] Do factor premia still exist? — `notebooks/10_factor_decay.ipynb`
 - [ ] Efficient frontier and estimation error — `notebooks/11_efficient_frontier.ipynb`
 
-*(Checkboxes get ticked off and links go live as each notebook is finished — update this table as you go.)*
+<!-- *(Checkboxes get ticked off and links go live as each notebook is finished — update this table as you go.)* -->
 
 ## Key findings
 
-*(Fill this in as notebooks are completed — 2-3 bullets per topic with an embedded chart is the goal. This section is what most visitors will actually read.)*
+🏗️
+<!-- *(Fill this in as notebooks are completed — 2-3 bullets per topic with an embedded chart is the goal. This section is what most visitors will actually read.)* -->
 
 ## Setup
 
