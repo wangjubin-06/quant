@@ -32,7 +32,7 @@ A series of Python notebooks exploring core ideas in portfolio management and qu
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/quant-explorations.git
+git clone https://github.com/wangjubin-06/quant-explorations.git
 cd quant-explorations
 pip install -r requirements.txt
 jupyter lab
