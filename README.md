@@ -12,7 +12,7 @@ A series of Python notebooks exploring core ideas in portfolio management and qu
 ### 2. Risk and tail behavior
 - [ ] Drawdown analysis — `notebooks/04_drawdown_analysis.ipynb`
 - [ ] Black swans and fat tails — `notebooks/05_fat_tails.ipynb`
-- [ ] Correlation breakdown in crises — `notebooks/06_correlation_breakdown.ipynb`
+- [ ] Correlation breakdown in crises — `notebooks/06_diversification_correlation_breakdown.ipynb`
 
 ### 3. Strategy comparisons
 - [ ] Stock picking vs. passive investing — `notebooks/07_picking_vs_passive.ipynb`
@@ -22,6 +22,9 @@ A series of Python notebooks exploring core ideas in portfolio management and qu
 ### 4. Market efficiency and factors
 - [ ] Do factor premia still exist? — `notebooks/10_factor_decay.ipynb`
 - [ ] Efficient frontier and estimation error — `notebooks/11_efficient_frontier.ipynb`
+
+### 5. Stretch goals (later)
+- [ ] Monte Carlo simulation & animated outcome paths — `notebooks/12_monte_carlo.ipynb` *(after covering stochastic processes)*
 
 <!-- *(Checkboxes get ticked off and links go live as each notebook is finished — update this table as you go.)* -->
 
